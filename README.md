@@ -45,7 +45,7 @@ Background Image: Customizable background image for the game screen.
 
 # Project Images
 
-![img.png](img.png)
+<img src ="ss.png"/>
 
 License
 
