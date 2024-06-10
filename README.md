@@ -1,3 +1,6 @@
+<img src ="cta.png"/>
+
+
 # Snake Game
 
 # Overview
