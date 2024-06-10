@@ -1,4 +1,4 @@
-               <img src ="cta.png"/>
+ <img src ="cta.png"/>
 
 
 # Snake Game
